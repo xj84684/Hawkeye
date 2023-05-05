@@ -3,7 +3,7 @@ certifi==2018.8.24
 chardet==3.0.4
 Click==7.0
 Deprecated==1.2.3
-Flask==1.0.2
+Flask==2.2.5
 Flask-RESTful==0.3.6
 gunicorn==19.9.0
 huey==1.10.2
