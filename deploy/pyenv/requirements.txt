@@ -6,7 +6,7 @@ Deprecated==1.2.3
 Flask==1.0.2
 Flask-RESTful==0.3.6
 gunicorn==19.9.0
-huey==1.10.2
+huey==2.5.0
 idna==2.7
 itsdangerous==0.24
 Jinja2==2.10
