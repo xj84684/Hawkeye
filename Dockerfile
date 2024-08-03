@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.13.0b4
 LABEL MAINTAINER=0xbug
 ENV TZ=Asia/Shanghai
 EXPOSE 80
